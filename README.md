@@ -1,5 +1,11 @@
 # Video Game Recommendation System
 
+**Personalized Steam Game Recommendation System leveraging NLP, deep learning, and graph-based collaborative filtering for Steam.**
+
+**Tech Stack:** Python, PyTorch, scikit-learn, HuggingFace Transformers, FAISS, LDA, K-Means, Jupyter, pandas, NumPy
+
+---
+
 ## Project Overview
 
 Users often face decision fatigue due to an overwhelming number of choices on gaming platforms like Steam. This can reduce engagement and retention. While Steam’s Interactive Recommender uses implicit signals such as playtime, it lacks explainability and does not fully utilize textual data like reviews and game descriptions.
