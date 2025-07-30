@@ -101,6 +101,9 @@ These clusters were used as categorical inputs to supplement the Wide & Deep mod
 - Schwartz, B., "More Isn’t Always Better," Harvard Business Review, 2006. [HBR](https://hbr.org/2006/06/more-isnt-always-better)
 - Jegou, H., Douze, M., & Johnson, J., "FAISS: A Library for Efficient Similarity Search," Meta Engineering, 2018. [Article](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/)
 
+## Credits
+Done by David Law Cheng, Edwin HRJ, Wesley and Xin Tien
+
 ---
 
 
